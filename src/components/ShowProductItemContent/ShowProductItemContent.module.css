@@ -1,0 +1,7 @@
+.wrapper{
+    padding: 1%;
+}
+.wrapComment{
+    display: grid;
+    grid-template-columns: 35% 10% 10% 10% 35%;
+}
